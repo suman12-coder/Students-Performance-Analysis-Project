@@ -1,7 +1,7 @@
 ## About Dataset :
 
    This dataset contains comprehensive information on 2,392 high school students, detailing their demographics, study habits, parental involvement, extracurricular activities, and academic performance. The target variable, GradeClass, classifies students' grades into distinct categories, providing a robust dataset for educational research, predictive modeling, and statistical analysis.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### Table of Contents
 
@@ -59,7 +59,7 @@
   - 1: 'B' (3.0 &lt;= GPA &lt; 3.5)
   - 2: 'C' (2.5 &lt;= GPA &lt; 3.0)
   - 3: 'D' (2.0 &lt;= GPA &lt; 2.5)
-  - 4: 'F' (GPA &lt; 2.0)
+  - 4: 'E' (GPA &lt; 2.0)
 
 ## Conclusion :
 
