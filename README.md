@@ -117,9 +117,9 @@ Raw Data
    → Data Cleaning 
    → Exploratory Data Analysis (EDA) 
    → Feature Selection 
-   → Model Training (Logistic Regression) 
+   → Model Training (Logistic Regression and Random Forest Classifier) 
    → Model Evaluation 
-   → Model Serialization (.pkl) 
+   → Model Serialization
    → Streamlit Deployment
 ```
 
