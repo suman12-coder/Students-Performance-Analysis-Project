@@ -70,6 +70,8 @@ Key insights:
 * Absences negatively impact performance
 * The dataset shows a clear class imbalance, with 50.63% of students categorized as Grade E (lowest performance). Mid-level grades (C and D) account for approximately 33%, while high-performing students (Grade A) represent only 4.47% of the data.
 * No severe multicollinearity issues detected
+* Support-related factors such as Parental Support and Tutoring show a positive impact on GPA, while participation in extracurricular activities is associated with slightly higher academic performance, suggesting a balanced benefit rather than a distraction.
+* Overall, the dataset shows strong, logical relationships between academic behavior, support systems, and performance, making it well-suited for predictive modeling and early-intervention insights.
 
 EDA revealed structured relationships between academic behavior and performance levels.
 
