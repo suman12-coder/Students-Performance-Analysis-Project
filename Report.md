@@ -68,8 +68,7 @@ Key insights:
 
 * Higher study time correlates positively with better grade class
 * Absences negatively impact performance
-* Majority of students belong to higher performance categories
-* Class imbalance observed in lower grade categories
+* The dataset shows a clear class imbalance, with 50.63% of students categorized as Grade E (lowest performance). Mid-level grades (C and D) account for approximately 33%, while high-performing students (Grade A) represent only 4.47% of the data.
 * No severe multicollinearity issues detected
 
 EDA revealed structured relationships between academic behavior and performance levels.
