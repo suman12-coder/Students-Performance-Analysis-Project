@@ -127,29 +127,11 @@ Sustained engagement prevents relapse into academic risk.
 
 ---
 
-# 📊 Predictive Model Integration
-
-Given the findings, future machine learning models should prioritize:
-
-1. Absences (Primary Feature)
-2. Study Time
-3. Parental Support
-4. Tutoring Status
-5. Extracurricular Participation
-
-Demographic variables should be treated as secondary predictors.
-
-This aligns modeling efforts with actual performance drivers identified in the analysis.
-
----
-
 # 🚀 Final Executive Conclusion
 
-This dataset does not reflect an academic excellence issue.
-It reflects an attendance and engagement crisis.
+This dataset does not reflect an academic excellence issue. It reflects an attendance and engagement crisis.
 
-The institution is not lacking high-potential students —
-it is lacking structured intervention systems.
+The institution is not lacking high-potential students — it is lacking structured intervention systems.
 
 By focusing on attendance control, targeted tutoring, and parental engagement, the institution can realistically:
 
@@ -158,8 +140,7 @@ By focusing on attendance control, targeted tutoring, and parental engagement, t
 * Improve overall GPA beyond 1.91
 * Create a measurable upward shift in academic distribution
 
-The data does not just diagnose the problem.
-It provides a clear roadmap for transformation.
+The data does not just diagnose the problem. It provides a clear roadmap for transformation.
 
 ---
 
